@@ -2,6 +2,7 @@
 # Single-page CV
 
 This is a personal portfolio page created by **Luis Miguel Escotto** as part of the **Frontend Developer Roadmap**. It showcases my education, skills, and work experience, along with relevant links to my profiles across the web.
+- [RoadMap](https://roadmap.sh/projects/single-page-cv)
 
 ## 🧑‍💻 About Me
 
@@ -40,7 +41,6 @@ This project is part of my journey to strengthen frontend skills, following the 
 - Mastery of layout and responsive design  
 - Proper use of semantic HTML elements  
 - Clean, structured code suitable for SEO
-
 ---
 
 Feel free to explore the project and give feedback!
